@@ -5,6 +5,7 @@ body {
     background-color: #f5f5f5;
 }
 
+/* Header styles */
 header {
     background: #C9A0CD;
     color: white;
@@ -12,21 +13,35 @@ header {
     text-align: center;
 }
 
+/* h1 in header remains unchanged (or you can set it explicitly) */
+header h1 {
+    color: white;
+}
+
+/* Any h1 outside of header gets the header's background color */
+body h1:not(header h1) {
+    color: #C9A0CD;
+}
+
+/* h2 within header gets a different color (adjust as needed) */
+header h2 {
+    color: #ff0000; /* Change this to your preferred color */
+}
+
+/* General main content styling */
 main {
     padding: 20px;
     max-width: 800px;
     margin: auto;
 }
 
-h1 {
-    color: #000; /* Change to a color that contrasts with the header background */
-}
-
+/* General h2 styling outside header, if needed */
 h2 {
-    color: #555; /* Change to a color that contrasts with the blog post background */
+    color: #555;
 }
 
-posts {
+/* Styling for the blog posts container */
+#posts {
     margin-top: 20px;
 }
 
