@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #007acc;
+    background: #C9A0CD;
     color: white;
     padding: 20px;
     text-align: center;
@@ -20,7 +20,7 @@ main {
 }
 
 h1, h2 {
-    color: #007acc;
+    color: #C9A0CD;
 }
 
 #posts {
