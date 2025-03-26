@@ -18,14 +18,9 @@ header h1 {
     color: white;
 }
 
-/* Any h1 outside of header gets the header's background color */
-body h1:not(header h1) {
-    color: #C9A0CD;
-}
-
 /* h2 within header gets a different color (adjust as needed) */
-header h2 {
-    color: #ff0000; /* Change this to your preferred color */
+h2 {
+    color: #C9A0CD; /* Change this to your preferred color */
 }
 
 /* General main content styling */
