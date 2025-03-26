@@ -30,11 +30,6 @@ main {
     margin: auto;
 }
 
-/* General h2 styling outside header, if needed */
-h2 {
-    color: #555;
-}
-
 /* Styling for the blog posts container */
 #posts {
     margin-top: 20px;
