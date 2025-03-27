@@ -1,4 +1,4 @@
-body {
+diffrbody {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ header {
 }
 
 p {
-    text-indent: 15px;
+    text-indent: 15em;
 }
 
 /* h1 in header remains unchanged (or you can set it explicitly) */
