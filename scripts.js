@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const postsContainer = document.getElementById("posts");
 
     // List of blog posts
-    const posts = ["campaign-intro.md", "event-plans.md"];
+    const posts = ["campaign-intro.md"];
 
     for (let post of posts) {
         try {
