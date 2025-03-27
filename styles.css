@@ -48,6 +48,18 @@ main {
 }
 
 /* Navbar */
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex; /* Display items in a row */
+    justify-content: flex-start; /* Align items to the left */
+}
+
+nav ul li {
+    margin-right: 20px; /* Add space between the items */
+}
+
 .button-74 {
   background-color: #fbeee0;
   border: 2px solid #422800;
