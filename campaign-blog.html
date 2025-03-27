@@ -9,12 +9,7 @@
 </head>
 <body>
     <header>
-        <nav>
-             <ul>
-                 <li><button class="button-74" role="button" onclick="location.href='index.html'">About Me</button></li>
-                 <li><button class="button-74" role="button" onclick="location.href='campaign-blog.html'">Campaign Blog</button></li>
-             </ul>
-        </nav>
+        <div id="navbar"></div>
         <div style="text-align: center;">
             <img src="Headshot.jpg" alt="Kristel's Picture" style="width: 150px; height: 150px; border-radius: 50%;">
         </div>
@@ -29,5 +24,12 @@
     </main>
 
     <script src="scripts.js"></script>
+    <script>
+        fetch('navbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('navbar').innerHTML = data;
+            });
+    </script>
 </body>
 </html>
