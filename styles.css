@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #f6f2ff;
 }
 
 /* Header styles */
 header {
-    background: #C9A0CD;
+    background: #6a39cb;
     color: white;
     padding: 20px;
     text-align: center;
@@ -24,7 +24,7 @@ header h1 {
 
 /* h2 within header gets a different color (adjust as needed) */
 h2 {
-    color: #C9A0CD; /* Change this to your preferred color */
+    color: #6a39cb; /* Change this to your preferred color */
 }
 
 /* General main content styling */
