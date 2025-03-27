@@ -48,38 +48,60 @@ main {
 }
 
 /* Navbar styling */
-nav {
-    background-color: #333;
-    padding: 10px;
+.button-56 {
+  align-items: center;
+  background-color: #fee6e3;
+  border: 2px solid #111;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #111;
+  cursor: pointer;
+  display: flex;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  height: 48px;
+  justify-content: center;
+  line-height: 24px;
+  max-width: 100%;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
 
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+.button-56:after {
+  background-color: #111;
+  border-radius: 8px;
+  content: "";
+  display: block;
+  height: 48px;
+  left: 0;
+  width: 100%;
+  position: absolute;
+  top: -2px;
+  transform: translate(8px, 8px);
+  transition: transform .2s ease-out;
+  z-index: -1;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
+.button-56:hover:after {
+  transform: translate(0, 0);
 }
 
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    padding: 10px 20px;
-    background-color: #555;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+.button-56:active {
+  background-color: #ffdeda;
+  outline: 0;
 }
 
-nav ul li a:hover {
-    background-color: #777;
+.button-56:hover {
+  outline: 0;
 }
 
-/* Button animation */
-nav ul li a:active {
-    transform: scale(0.95);
-    transition: transform 0.1s ease;
+@media (min-width: 768px) {
+  .button-56 {
+    padding: 0 40px;
+  }
 }
