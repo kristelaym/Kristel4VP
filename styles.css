@@ -13,6 +13,10 @@ header {
     text-align: center;
 }
 
+header img {
+    margin-top: 10px; /* Adjust the value as needed */
+}
+
 p {
     text-indent: 4em;
 }
