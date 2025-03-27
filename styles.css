@@ -50,7 +50,7 @@ main {
 /* Navbar */
 nav ul {
     list-style-type: none; /* Remove bullet points */
-    padding: 0; /* Remove default padding */
+    padding: 0 0 15px; /* Remove default padding */
     margin: 0; /* Remove default margin */
     display: flex; /* Display items in a row */
     justify-content: flex-start; /* Align items to the left */
