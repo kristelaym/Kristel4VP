@@ -2,29 +2,37 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #F0E6F6; /* Soft lilac background */
+    color: #4A235A; /* Deep purple for contrast */
 }
 
 /* Header styles */
 header {
-    background: #C9A0CD;
+    background: #C9A0CD; /* Lilac */
     color: white;
     padding: 20px;
     text-align: center;
 }
 
 header img {
-    margin-top: 15px; /* Adjust the value as needed */
+    margin-top: 15px;
 }
 
+header h1 {
+    color: white;
+}
+
+/* Section styles */
 section h1 {
     text-align: center;
     font-size: 2em;
+    color: #6D3B87; /* Richer lilac */
 }
 
 section h2 {
-    border-bottom: 2px solid #ff69b4;
+    border-bottom: 2px solid #A67EB7; /* A softer lilac instead of pink */
     padding-bottom: 5px;
+    color: #6D3B87;
 }
 
 section p {
@@ -32,46 +40,89 @@ section p {
     line-height: 1.6;
 }
 
+/* Highlighting important text */
 .highlight {
-    color: #ff69b4;
+    color: #6D3B87; /* Deeper lilac */
     font-weight: bold;
 }
+
+/* Content sections */
 .section {
     margin-bottom: 20px;
     padding: 15px;
-    background: #fff0f5;
+    background: #EBD3F5; /* Soft pastel lilac */
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
+
+/* Footer */
 .footer {
     text-align: center;
     font-size: 1.2em;
     font-weight: bold;
-    color: #ff69b4;
+    color: #6D3B87;
 }
 
-p {
-    text-indent: 2em;
+/* Navbar */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
 }
 
-/* h1 in header remains unchanged (or you can set it explicitly) */
-header h1 {
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
     color: white;
+    font-weight: bold;
+    cursor: pointer;
 }
 
-/* h2 within header gets a different color (adjust as needed) */
-h2 {
-    color: #C9A0CD; /* Change this to your preferred color */
+nav ul li a:hover {
+    color: #EBD3F5;
 }
 
-/* General main content styling */
+/* Buttons */
+.button-74 {
+    background-color: #C9A0CD;
+    border: 2px solid #F5E6FF;
+    border-radius: 30px;
+    box-shadow: #F5E6FF 4px 4px 0 0;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.button-74:hover {
+    background-color: #A67EB7;
+}
+
+.button-74:active {
+    box-shadow: #F5E6FF 2px 2px 0 0;
+    transform: translate(2px, 2px);
+}
+
+/* Main content */
 main {
     padding: 20px;
     max-width: 800px;
     margin: auto;
 }
 
-/* Styling for the blog posts container */
+/* Blog post styling */
 #posts {
     margin-top: 20px;
 }
@@ -84,51 +135,10 @@ main {
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Navbar */
-nav ul {
-    list-style-type: none; /* Remove bullet points */
-    padding: 0; /* Remove default padding */
-    margin: 0; /* Remove default margin */
-    display: flex; /* Display items in a row */
-    justify-content: flex-start; /* Align items to the left */
-}
-
-nav ul li {
-    margin-right: 20px; /* Add space between the items */
-}
-
-.button-74 {
-  background-color: #C9A0CD;
-  border: 2px solid #f5f5f5;
-  border-radius: 30px;
-  box-shadow: #f5f5f5 4px 4px 0 0;
-  color: #f5f5f5;
-  cursor: pointer;
-  display: inline-block;
-  font-weight: 600;
-  font-size: 18px;
-  padding: 0 18px;
-  line-height: 50px;
-  text-align: center;
-  text-decoration: none;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  transition: all 0.2s ease-in-out;
-}
-
-.button-74:hover {
-  background-color: #bb88c0;
-}
-
-.button-74:active {
-  box-shadow: #f5f5f5 2px 2px 0 0;
-  transform: translate(2px, 2px);
-}
-
+/* Responsive Button */
 @media (min-width: 768px) {
-  .button-74 {
-    min-width: 120px;
-    padding: 0 25px;
-  }
+    .button-74 {
+        min-width: 120px;
+        padding: 0 25px;
+    }
 }
