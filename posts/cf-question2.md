@@ -21,4 +21,4 @@ To make this happen, I plan to:
 
 I believe these initiatives will help **.devClub members feel more supported, connected, and prepared for their future careers** no matter what path they choose! 🌸 XOXO :3 🌸
 
-* March 29th, 2025 *
+*March 29th, 2025*
