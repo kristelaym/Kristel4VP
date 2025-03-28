@@ -1,4 +1,4 @@
-# Any plans that you want to work toward this year?
+# 🎯 My Goals for This Year 
 
 This year, I’m focused on two major goals that I believe will have a lasting impact on our **.devClub** community and beyond:  
 
