@@ -19,3 +19,5 @@ Heavy course loads and other responsibilities make it difficult for students to 
 
 ### **How We Can Help:**
 * To make it easier for students to participate, we can offer more **flexible event formats**, such as **shorter workshops** and **asynchronous learning opportunities**. This way, students can engage with **.devClub** without feeling overwhelmed by time constraints.
+
+*March 29th, 2025*
