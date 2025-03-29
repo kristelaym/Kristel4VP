@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const postsContainer = document.getElementById("posts");
 
     // List of blog posts
-    const posts = ["campaign-intro.md", "tif-question1.md","tif-question2.md","tif-question3.md","tif-question4.md","tif-question5.md","tif-question6.md"];
+    const posts = ["campaign-intro.md", "tif-question1.md", "tif-question2.md", "tif-question3.md", "tif-question4.md", "tif-question5.md", "tif-question6.md"];
 
     for (let post of posts) {
         try {
@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             let html = marked.parse(text); // Convert Markdown to HTML
             let postDiv = document.createElement("div");
             postDiv.classList.add("blog-post");
+            postDiv.dataset.content = text.toLowerCase(); // Store the text content in a data attribute for filtering
             postDiv.innerHTML = html;
             postsContainer.appendChild(postDiv);
         } catch (error) {
@@ -20,19 +21,16 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 });
 
-async function searchPosts() {
+function searchPosts() {
     const query = document.getElementById('searchInput').value.toLowerCase();
-    const resultsDiv = document.getElementById('results');
-    resultsDiv.innerHTML = '';
+    const postsContainer = document.getElementById("posts");
+    const posts = postsContainer.getElementsByClassName("blog-post");
 
-    const posts = ["campaign-intro.md", "tif-question1.md","tif-question2.md","tif-question3.md","tif-question4.md","tif-question5.md","tif-question6.md"];
-    for (const post of posts) {
-        const response = await fetch(`posts/${post}`);
-        const text = await response.text();
-        if (text.toLowerCase().includes(query)) {
-            const resultItem = document.createElement('div');
-            resultItem.innerHTML = `<p>Found in: <a href="posts/${post}">${post}</a></p>`;
-            resultsDiv.appendChild(resultItem);
+    for (let post of posts) {
+        if (post.dataset.content.includes(query)) {
+            post.style.display = "block";
+        } else {
+            post.style.display = "none";
         }
     }
 }
