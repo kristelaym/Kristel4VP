@@ -19,9 +19,13 @@
     <main>
         <section id="blog">
             <h2>Campaign Blog</h2>
-            <input type="text" id="searchInput" placeholder="Enter a word or phrase">
-            <button onclick="searchPosts()">Search</button>
-            <button onclick="unfilterPosts()">All Posts</button> <!-- Added Unfilter Button -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div>
+                    <input type="text" id="searchInput" placeholder="Enter a word or phrase">
+                    <button class="button-74" onclick="searchPosts()">Search</button>
+                </div>
+                <button class="button-74" onclick="unfilterPosts()">Unfilter</button>
+            </div>
             <div id="results"></div>
             <div id="posts"></div>
         </section>
