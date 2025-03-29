@@ -17,3 +17,5 @@ Our club already has several ways to make these events happen, and past experien
 * Understand that the first few events might not be perfect, but every **workshop** and **panel** is an opportunity to gather feedback and make adjustments. The more we do them, the better we’ll become, increasing our chances of success over time.
 
 By following these steps and staying flexible, we can steadily increase the number of **hands-on workshops** and **industry panels**, making each one better than the last.
+
+*March 29th, 2025*
