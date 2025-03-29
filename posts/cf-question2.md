@@ -14,7 +14,7 @@ One of my biggest goals is to **bridge the gap between university and industry**
 
 To make this happen, I plan to:  
 - **Organize more hands-on workshops** led by **faculty members** who can introduce students to advanced topics in a way that’s accessible and engaging. These workshops will give students a chance to **apply concepts beyond the classroom** and develop new skills.  
-- **Host industry panels and tech talks** featuring **professionals from various fields** (e.g., software engineering, UX research, AI, cybersecurity, etc.), so students can learn about **career paths, job market trends, and must-have skills** directly from experts.  
+- **Host industry panels and tech talks** featuring **professionals from various fields** (e.g., software engineering, UX research, cybersecurity, etc.), so students can learn about **career paths, job market trends, and must-have skills** directly from experts.  
 - Work on **collaborations with local tech companies and startups**, so that students have access to **internship opportunities, hackathons, and networking events** that help them **build real-world experience.**  
 
 I believe these initiatives will help **.devClub members feel more supported, connected, and prepared for their future careers** no matter what path they choose! 🌸 XOXO :3 🌸
