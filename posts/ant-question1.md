@@ -18,4 +18,6 @@ Having this **direct connection** will help **streamline communication** and cre
 ## **4. Sponsors**  
 **Strengthening our sponsor relationships** has been a priority for me. This year, during the **Dress to Impress** workshop, we involved our sponsor, **Niche Technologies**, by **providing them with a fully prepared laptop** to ensure a **smooth experience**.  
 
-This allowed them to **interact with students directly**, assisting them with the workshop and fostering **casual conversations**. These interactions not only **improve our relationship with sponsors** but also give our members a **unique opportunity to connect with industry professionals in an informal setting**.  
+This allowed them to **interact with students directly**, assisting them with the workshop and fostering **casual conversations**. These interactions not only **improve our relationship with sponsors** but also give our members a **unique opportunity to connect with industry professionals in an informal setting**. 
+
+*March 29th,2025* 
