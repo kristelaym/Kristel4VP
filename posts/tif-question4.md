@@ -5,4 +5,4 @@ Building on this, I’ve also worked to create a balanced leadership team. By en
 
 Overall, I push for inclusivity by engaging directly with those who feel hesitant, using their insights to shape our programming, and ensuring that every decision—from leadership recruitment to workshop design—reflects a commitment to diversity and equal opportunity.
 
-* March 29th, 2025 *
+*March 29th, 2025*
