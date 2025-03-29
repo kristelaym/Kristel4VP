@@ -34,3 +34,12 @@ function searchPosts() {
         }
     }
 }
+
+function unfilterPosts() {
+    const postsContainer = document.getElementById("posts");
+    const posts = postsContainer.getElementsByClassName("blog-post");
+
+    for (let post of posts) {
+        post.style.display = "block";
+    }
+}
