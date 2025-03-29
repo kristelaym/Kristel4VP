@@ -183,3 +183,11 @@ button {
     background-color: #ff1493; /* Darker pink on hover */
     color: white;
 }
+
+/* Flex container for centering the search bar and buttons */
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px; /* Space between buttons and search bar */
+}
