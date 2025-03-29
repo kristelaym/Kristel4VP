@@ -15,4 +15,5 @@ My favorite part of being a .devClub executive is that the team feels like **mor
 * We end up talking about the **most random things**, and no one gets much sleep, but it’s one of those moments that makes being part of this team **so special**.  
 
 Beyond the **responsibilities and challenges**, it’s these **experiences** that make .devClub such an **incredible community**, and that’s what I **love most** about being part of it.  
+
 *March 29th, 2025*
