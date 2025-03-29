@@ -1,7 +1,7 @@
 # What are some things you were able to achieve or your takeaways from your time as a councillor and Internal Executive?
 
 ## As a Councillor:
-One of my biggest achievements as a councillor was having the confidence to put myself out there and apply. Going into university, I had no idea how clubs worked, and seeing that .devClub’s executive team at the time was mostly men, with the exception of lovely Avneet:two_hearts:, made me hesitant because I wasn’t sure if I belonged there. But thanks to the encouragement of Jordon, who was internal at the time, and Kha, who was external at the time, I pushed through my doubts and took that leap—and it turned out to be one of the best decisions I’ve ever made.
+One of my biggest achievements as a councillor was having the confidence to put myself out there and apply. Going into university, I had no idea how clubs worked, and seeing that .devClub’s executive team at the time was mostly men, with the exception of lovely Avneet :two_hearts: , made me hesitant because I wasn’t sure if I belonged there. But thanks to the encouragement of Jordon, who was internal at the time, and Kha, who was external at the time, I pushed through my doubts and took that leap—and it turned out to be one of the best decisions I’ve ever made.
 
 My biggest takeaway from being a councillor was everything Avneet taught me about promotions. I learned how to design posters, print them in the CADLab, get them signed for approval, and where to put them up around campus. These skills stuck with me, and I put them to use during this campaign—Milita, the amazing woman running for promotions, designed the posters, and I handled the printing and permissions on the first day of campaigning.
 ## As Internal Executive:
