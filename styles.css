@@ -162,3 +162,24 @@ button {
     border: 1px solid #ddd;
     margin-bottom: 10px;
 }
+
+/* New class for smaller buttons in the campaign blog */
+.small-button {
+    background-color: #ff69b4; /* Light pink background */
+    border: none;
+    border-radius: 12px; /* Rounded corners */
+    color: white; /* White text */
+    padding: 5px 10px; /* Reduced padding for smaller size */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; /* Smaller font size */
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s; /* Smooth transition */
+}
+
+.small-button:hover {
+    background-color: #ff1493; /* Darker pink on hover */
+    color: white;
+}
