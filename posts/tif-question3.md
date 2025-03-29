@@ -9,4 +9,4 @@ My biggest achievement as Internal Executive was making sure women and gender mi
 
 Beyond that, my biggest takeaway was learning my own limits. That summer, I was balancing full-time work, full-time summer courses (MATH 1240 and COMP 2140), and my internal executive duties. I thought I could handle it all, but I burned out to the point of missing meetings I was supposed to be hosting. That experience taught me that time management isn’t just about scheduling—it’s about knowing when to take a step back and prioritize my well-being.
 
-* March 29th, 2025 *
+*March 29th, 2025*
