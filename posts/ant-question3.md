@@ -10,3 +10,5 @@
 * **Example:** When we had a **room booked** but found a **class still in session**, the other executives were hesitant to address the issue. When they asked me, I **immediately stepped in and handled it without hesitation**.  
 
 * **Leadership isn’t just about managing tasks**—it’s about **fostering a motivated and supportive team**. My **energy and willingness to step up** make me confident that I could take on a **leadership role** while ensuring .devClub remains a **strong and welcoming community**.  
+
+*March 29th. 2025*
