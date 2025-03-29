@@ -4,7 +4,7 @@ As **Vice President**, my role is to **support the President’s vision** while 
 
 ### 🔹 Strengthening Collaboration & Execution  
 - I will work **closely with the President** to **align club goals** with the needs of our members, ensuring that initiatives are both **feasible and beneficial**.  
-- By **coordinating between executives, councillors, and members**, I will help keep projects on track and ensure **smooth execution** of events, workshops, and programs.  
+- By **coordinating between executives, councillors, and members**, I will help keep projects on track and ensure **smooth execution** of workshops, hackathon and other events.  
 - If a project requires **logistical support, faculty collaboration, or industry connections**, I will take an active role in securing the right **resources and partnerships**.  
 
 ### 🔹 Expanding Outreach & Engagement  
