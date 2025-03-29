@@ -13,3 +13,5 @@ To ensure that the **momentum we create in .devClub** continues beyond the **202
 * When these councillors eventually **step into executive roles**, they’ll already have the **knowledge, confidence, and leadership skills** needed to carry on what we’ve built.  
 * This way, we can **pass the torch** knowing that .devClub is in **good hands**.  
 * Ideally, they’ll continue this cycle—**mentoring the next group of councillors** and ensuring that the momentum we’ve created **doesn’t just last for a year, but for many years to come**.  
+
+*March 29th, 2025*
