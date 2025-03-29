@@ -4,4 +4,4 @@ I love this question! I was intimidated by MATH 1240 at first, but going in with
 
 One of the best things you can do, and this is exactly what I did, is ask your professor to grade your proofs (like induction or combinatorial proofs) as if they were on an exam. This helps you understand exactly what they’re looking for and how they’ll grade your work when it counts. I want to preface this by saying I took 1240 in a condensed summer term so my experience is definitely different from most people but the overall arching advice would be put in time, it’s easier said than done I know but that’s what you have to do AND don’t be afraid to reach out for help that a BIG one!
 
-* March 29th, 2025 *
+*March 29th, 2025*
