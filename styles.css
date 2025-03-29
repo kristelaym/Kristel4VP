@@ -142,3 +142,23 @@ main {
         padding: 0 25px;
     }
 }
+
+#searchInput {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+#results div {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+}
