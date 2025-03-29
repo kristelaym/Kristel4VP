@@ -3,4 +3,4 @@ Great question! One of our most successful workshops this year was led by Lauren
 
 I’d also like to collaborate with other faculty members to host interactive workshop competitions, similar to the Battle Snakes workshop we held over a year ago. In that event, participants worked in teams to develop projects that competed against each other at the end. Bringing back this kind of hands-on, competitive learning would be a great way to engage students and help them apply their skills in a fun, practical setting.
 
-* March 29th, 2025 *
+*March 29th, 2025*
