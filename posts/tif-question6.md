@@ -4,4 +4,4 @@ Yes, definitely! We have some wonderful connections. For example, several of our
 
 Additionally, I have a friend at Amazon Winnipeg who mentioned that not many people know what Amazon actually does locally, which is wild for such a huge company. It’d be awesome to have her and some colleagues come share what their day-to-day work looks like, the cool projects they’re involved in, and the key skills that helped them succeed. I think our members would really benefit from hearing their firsthand experiences.
 
-* March 29th, 2025 *
+*March 29th, 2025*
