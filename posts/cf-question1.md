@@ -17,3 +17,5 @@ As **Vice President**, my role is to **support the President’s vision** while 
 - Whether it’s **mentorship, career-building, or technical skill development**, I’ll work to make sure that **no student feels left behind**.  
 
 Ultimately, I see the **President and Vice President as a team**—one that works together to **strengthen .devClub** and **create more opportunities for students to grow, learn, and succeed**. I’m excited to support the President’s vision and help bring it to life! 🚀  
+
+*March 29th, 2025*
